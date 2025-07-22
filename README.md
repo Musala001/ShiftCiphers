@@ -1,12 +1,32 @@
-# React + Vite
+# 🔐 ShiftCipher
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Caesar Cipher static web app built with React + Vite.  
+Encrypt and decrypt messages using a classical shift cipher inspired by Julius Caesar — now brought to life in the browser.
 
-Currently, two official plugins are available:
+> Built by a coding cryptography enthusiast listening to Linkin Park on a rainy night.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔤 Encrypt & decrypt messages with custom key (shift value)
+- 🧠 Built using modern React (v19)
+- ⚡️ Super fast build using Vite
+- 🎨 Clean UI with responsive layout
+- 🌐 Deployed as a static site on Render
+
+---
+
+## 🚀 Live Demo
+
+Visit the live site:  
+👉 [https://musalashiftciphers.onrender.com](https://musalashiftciphers.onrender.com)
+
+---
+
+## 🛠️ Technologies
+
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Render](https://render.com/) (for static deployment)
+
